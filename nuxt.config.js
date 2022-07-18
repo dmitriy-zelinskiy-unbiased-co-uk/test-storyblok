@@ -10,7 +10,7 @@ export default {
   ** See https://nuxtjs.org/api/configuration-target
   */
   // target: 'server',
-  target: 'server',
+  target: 'static',
   router: {
     base: '/test-storyblok/'
   },
